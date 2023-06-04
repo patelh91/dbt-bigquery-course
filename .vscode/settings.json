@@ -1,0 +1,9 @@
+{
+
+// CRUCIAL - you need to change this to terminal.integrated.env.[osx|windows|linux] depending on your system
+// and point it to the folder where your profiles directory is stored!
+"terminal.integrated.env.windows": {
+    "BIGQUERY_PROJECT": "protean-iridium-388716"
+    }
+
+}
